@@ -1,0 +1,28 @@
+body{
+	background: #ff9999;
+	margin: auto;
+}
+.body{
+	background-color: #99ff99;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	font-weight: 700;
+	text-align: center;
+}
+.journey{
+	background-color: white;
+	margin: auto;
+	padding: 10px;
+	height: 100%;
+	width: 60%;
+}
+.foto{
+	width: 450px;
+}	
+.content{
+	width: 50%;	
+	padding: 5px;
+	text-align: center;
+	margin: auto;
+}

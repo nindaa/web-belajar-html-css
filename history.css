@@ -1,0 +1,57 @@
+body{
+	background: #ff9999;
+	width: 800px;
+	margin: auto;
+}
+.foto{
+	background: black;
+	text-align: center;
+}
+.foto-profil{
+	width: 300px;
+}
+.body{
+	background-color: #99ff99;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	font-weight: 700;
+	text-align: center;
+}
+.line{
+	border-bottom-style: dotted;
+	border-bottom: 1px solid; 
+	border-bottom-width: 15px;
+	width: 800px;
+	color: black;
+}
+.table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.table1{
+	background-color: #99ff99;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	font-weight: 700;
+	text-align: center;
+}
+.line1{
+	border-bottom-style: dotted;
+	border-bottom: 1px solid; 
+	border-bottom-width: 15px;
+	width: 800px;
+	color: black;
+}

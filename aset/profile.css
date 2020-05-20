@@ -1,0 +1,41 @@
+body{
+	background: #ff6600;
+	width: 600px;
+	margin: auto;
+}
+.foto{
+	background-color: #99ff99;
+	text-align: center;
+}
+.foto-profil{
+	border-radius: 50%;
+}
+.body{
+	background-color: #99ff99;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	font-weight: 700;
+	text-align: center;
+}
+.line{
+	border-bottom-style: dotted;
+	border-bottom: 1px solid; 
+	border-bottom-width: 15px;
+	width: 400px;
+	color: #ff6600;
+
+}
+.title{
+	margin: 0;
+	position: relative;
+	display: 5px;
+	padding: 0 30px 0 0;
+	line-height: 1.2;
+	text-transform: uppercase;
+}
+.main-content{
+	margin-right: auto;
+	margin-left: auto;
+}
+
